@@ -2,12 +2,12 @@ React bağımlılıklarını yüklemek için
 
 ### `npm install`
 
-kullanılan paketler :
-redux
-react-redux
-redux-devtools-extension
-react-toastify
-
+<strong>kullanılan paketler :</strong>
+redux<br />
+react-redux<br />
+redux-devtools-extension<br />
+react-toastify<br />
+<br />
 Baackend olarak java, spring boot ve postgresql kullanılmıştır, backend projesine ulaşmak için aşağıdaki linkk'i kullanabilirsiniz
 https://github.com/aerdogan/java-northwind
 
