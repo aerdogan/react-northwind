@@ -2,7 +2,7 @@ React bağımlılıklarını yüklemek için
 
 ### `npm install`
 
-<strong>kullanılan paketler :</strong>
+<strong>kullanılan paketler :</strong><br />
 redux<br />
 react-redux<br />
 redux-devtools-extension<br />
