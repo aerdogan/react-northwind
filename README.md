@@ -14,4 +14,5 @@ React projesini çalıştırmak için
 
 ![resim](https://user-images.githubusercontent.com/193318/121805333-8cb5ab00-cc53-11eb-949e-b22d1cc46bc6.png)
 
-![resim](https://user-images.githubusercontent.com/193318/121805316-74de2700-cc53-11eb-94c5-14e18bbf0d8b.png)
+![resim](https://user-images.githubusercontent.com/193318/122457063-ecdf8080-cfb6-11eb-8d54-315fc1d41d75.png)
+
